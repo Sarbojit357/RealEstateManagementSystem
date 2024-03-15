@@ -1,6 +1,6 @@
 # Real Estate Management System
 
-![Real Estate Management System]
+[Real Estate Management System]
 
 ## Introduction
 
@@ -27,4 +27,4 @@ Welcome to the Real Estate Management System, a comprehensive solution for manag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-estate-management.git
+   git clone https://github.com/sarbojit357/real-estate-management.git
